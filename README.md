@@ -19,9 +19,8 @@ I come in peace... and with a ton of bugs. Ready to debug the universe, one line
 
 # 📞 Contacts
 - Email: iamprinceasante@gmail.com 📧
-- Phone: +233591663041 📱
-- X/Twitter: x.com/iamprinceasante 💻
-- LinkedIn: linkedin.com/in/iamprinceasante 🔗
+- X/Twitter: https://x.com/iamprinceasante 💻
+- LinkedIn: https://linkedin.com/in/iamprinceasante 🔗
 
 # ⚡ Fun fact
 - I’m deeply dedicated to my work – I approach every project with focus and commitment, no matter the challenges. 💻
