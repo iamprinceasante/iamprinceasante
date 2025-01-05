@@ -8,14 +8,14 @@ I come in peace... and with a ton of bugs. Ready to debug the universe, one line
 - **Comedy Lover** – "I code by day, laugh by night. If my code breaks, at least my jokes still land. 😆💻"
 
 # 🔭 Tech Stack – A developer’s secret weapon 🦸‍♂️💻
-- **HTML** – The skeleton of my websites. Without it, we’d just be staring at blank screens. 🧑‍💻❌
-- **CSS** – Making the web beautiful, one pixel at a time. And yes, I do lose my sanity over alignment. 🙃🎨
-- **JavaScript** – Because without a little chaos, where’s the fun in coding? 🔥🤪
-- **React** – My go-to library for building sleek, interactive UIs. (Yes, I’m in a committed relationship with it). ⚛️❤️
-- **Next.js** – My framework of choice for fast, SEO-friendly, server-rendered web apps. (And yes, it’s super cool). 🚀
-- **Tailwind CSS** – The easiest way to make my websites look 10x better while keeping my CSS clean. ✨⚡
-- **Git** – Because who needs a time machine when you’ve got version control? 🕰️💻
-- **VS Code** – My coding partner in crime, always ready for late-night debugging sessions. 💻🔍
+- **HTML**
+- **CSS** 
+- **JavaScript**
+- **React** 
+- **Next.js**
+- **Tailwind CSS** 
+- **Git**
+- **VS Code**
 
 # 📞 Contacts
 - Email: iamprinceasante@gmail.com 📧
