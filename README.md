@@ -1,4 +1,4 @@
-## Hello World 👋
+## Hello World 👋 I'm Prince Asante
 I come in peace... and with a ton of bugs. Ready to debug the universe, one line of code at a time!
 
 ## 💡About Me
