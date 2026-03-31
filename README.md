@@ -1,6 +1,10 @@
 ## Hello World 👋 I'm Prince Asante
 I come in peace... and with a ton of bugs. Ready to debug the universe, one line of code at a time!
 
+## 🚀 Currently
+- **Frontend Engineer** @ OpenPharmacy 
+- **Frontend Engineer** @ Nutripodx
+
 ## 💡About Me
 - **Frontend Developer** – "I’m here to make websites so sleek, even your grandma will want one. 👵"
 - **Learning Nerd** – "Just one more tutorial and I swear I’ll finish this project... maybe. 📚🔄"
