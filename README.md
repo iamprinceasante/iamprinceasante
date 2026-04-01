@@ -6,8 +6,10 @@ I come in peace... and with a ton of bugs. Ready to debug the universe, one line
 - **Frontend Engineer** @ Nutripodx
 
 ## 💡About Me
-- **Frontend Developer** – "I’m here to make websites so sleek, even your grandma will want one. 👵"
-- **Learning Nerd** – "Just one more tutorial and I swear I’ll finish this project... maybe. 📚🔄"
+- **Web Engineer** – "I build web platforms so smooth, even your cat can navigate. 🖥️"
+- **Full-Stack Explorer** – "Adding backend magic to my frontend wizardry — abracadabra, APIs! ✨🔧"
+- **Product-Focused** – "From UI to payments, I’m the solo engineer making it all work. 💡🔧"
+- **CMS Enthusiast** – "Sanity CMS wizardry in progress — dynamic blogs, content everywhere. ✨📚"
 - **Team Player** – "I believe in teamwork, coffee breaks, and sharing memes for productivity. ☕🤝
 - **Comedy Lover** – "I code by day, laugh by night. If my code breaks, at least my jokes still land. 😆💻"
 
