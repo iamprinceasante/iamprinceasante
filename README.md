@@ -15,8 +15,10 @@ I come in peace... and with a ton of bugs. Ready to debug the universe, one line
 - **HTML**
 - **CSS** 
 - **JavaScript**
+- **TypeScript**
 - **React** 
 - **Next.js**
+- **Sanity**
 - **Tailwind CSS** 
 - **Git**
 - **VS Code**
