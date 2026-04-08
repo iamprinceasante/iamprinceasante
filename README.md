@@ -4,6 +4,7 @@ I come in peace... and with a ton of bugs. Ready to debug the universe, one line
 ## 🚀 Currently
 - **Frontend Engineer** @ OpenPharmacy 
 - **Frontend Engineer** @ Nutripodx
+- **Software Engineer** (Full Stack) @ Lizdic
 
 ## 💡About Me
 - **Web Engineer** – "I build web platforms so smooth, even your cat can navigate. 🖥️"
